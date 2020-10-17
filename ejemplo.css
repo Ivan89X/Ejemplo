@@ -1,0 +1,54 @@
+h1 {
+    font-size: 300%;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+h2 {
+    clear: both;
+    padding: 0.2rem 0.5rem;
+    background-color: gray;
+    color: white;
+    font-size: 200%;
+
+}
+
+
+body {
+    margin: 10px 10%;
+    background-color: lightgray;
+    font-family: sans-serif;
+    text-align: justify;
+    display: block;
+    margin: 0px;
+}
+
+body {
+    margin: 10px 10%;
+    background-color: lightgray;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+img {
+    float: left;
+    margin: 0 10px 10px 0;
+}
+p {
+    margin-left: 10%;
+    margin-right: 10%;
+    text-indent: 2rem;
+    display: block;
+}
+
+em {
+    color: red;
+    font-style: italic;
+}
+
+strong {
+    background-color: white;
+    font-weight: bold;
+}
+
+
